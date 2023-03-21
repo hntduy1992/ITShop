@@ -1,0 +1,12 @@
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\bin\Debug\net6.0\ITShop.Ultilities.deps.json
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\bin\Debug\net6.0\ITShop.Ultilities.dll
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\bin\Debug\net6.0\ITShop.Ultilities.pdb
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ITShop.Ultilities.csproj.AssemblyReference.cache
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ITShop.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ITShop.Ultilities.AssemblyInfoInputs.cache
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ITShop.Ultilities.AssemblyInfo.cs
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ITShop.Ultilities.csproj.CoreCompileInputs.cache
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ITShop.Ultilities.dll
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\refint\ITShop.Ultilities.dll
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ITShop.Ultilities.pdb
+D:\Project\ITShop\ITShopSolution\ITShop.Ultilities\obj\Debug\net6.0\ref\ITShop.Ultilities.dll

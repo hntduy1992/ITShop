@@ -1,0 +1,12 @@
+D:\Project\ITShop\ITShopSolution\ITShop.Models\bin\Debug\net6.0\ITShop.Models.deps.json
+D:\Project\ITShop\ITShopSolution\ITShop.Models\bin\Debug\net6.0\ITShop.Models.dll
+D:\Project\ITShop\ITShopSolution\ITShop.Models\bin\Debug\net6.0\ITShop.Models.pdb
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ITShop.Models.csproj.AssemblyReference.cache
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ITShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ITShop.Models.AssemblyInfoInputs.cache
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ITShop.Models.AssemblyInfo.cs
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ITShop.Models.csproj.CoreCompileInputs.cache
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ITShop.Models.dll
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\refint\ITShop.Models.dll
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ITShop.Models.pdb
+D:\Project\ITShop\ITShopSolution\ITShop.Models\obj\Debug\net6.0\ref\ITShop.Models.dll
